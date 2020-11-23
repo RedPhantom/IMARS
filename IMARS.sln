@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMARS", "IMARS\IMARS.csproj", "{AD47C14F-A937-4664-B458-4BA1F81F95B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMARS.Data", "IMARS.Data\IMARS.Data.csproj", "{CCF7BAB3-AE03-43A8-9E0B-90F2B4FF9B05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD47C14F-A937-4664-B458-4BA1F81F95B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD47C14F-A937-4664-B458-4BA1F81F95B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD47C14F-A937-4664-B458-4BA1F81F95B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD47C14F-A937-4664-B458-4BA1F81F95B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF7BAB3-AE03-43A8-9E0B-90F2B4FF9B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF7BAB3-AE03-43A8-9E0B-90F2B4FF9B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF7BAB3-AE03-43A8-9E0B-90F2B4FF9B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF7BAB3-AE03-43A8-9E0B-90F2B4FF9B05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0834EE3-8916-45DE-9015-30D02125F41A}
+	EndGlobalSection
+EndGlobal
