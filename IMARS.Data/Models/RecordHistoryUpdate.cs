@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace IMARS.Data
+namespace IMARS.Data.Models
 {
     /// <summary>
     /// Describes an update in a record. Serialized.
